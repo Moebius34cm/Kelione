@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moebius34cm", "Moebius34cm.csproj", "{C033BD42-9C9B-8F8C-D99B-4C41D64791A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moebius34cm.Editor", "Moebius34cm.Editor.csproj", "{F99C3236-1165-7FFF-69C2-BDB28E93F039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C033BD42-9C9B-8F8C-D99B-4C41D64791A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C033BD42-9C9B-8F8C-D99B-4C41D64791A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C033BD42-9C9B-8F8C-D99B-4C41D64791A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C033BD42-9C9B-8F8C-D99B-4C41D64791A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99C3236-1165-7FFF-69C2-BDB28E93F039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99C3236-1165-7FFF-69C2-BDB28E93F039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99C3236-1165-7FFF-69C2-BDB28E93F039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99C3236-1165-7FFF-69C2-BDB28E93F039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

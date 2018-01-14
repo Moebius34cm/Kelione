@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c32c51eb064bec74d99f8a5c5b2df2c6, type: 3}
+  m_Name: ClassicPlayer
+  m_EditorClassIdentifier: 
+  normalSpeed: 150
+  dashSpeed: 2000
+  LeftJoyHori: LeftJoyHori
+  LeftJoyVerti: LeftJoyVerti
+  AButton: AButton
+  BButton: BButton
+  XButton: XButton
+  YButton: YButton
+  dashPrecision: 0.3
+  dashingTime: 0.2
+  dashDelay: 0.2
+  actionDelay: 0.3
+  attaqueDelay: 0.15
+  paradeDelay: 0.4
+  cloneLifeDelay: 0.2
+  knockedDownTime: 2
+  attackSound: {fileID: 8300000, guid: 543717bad75772849bbcdc0138dd9aed, type: 3}
+  dashSound: {fileID: 8300000, guid: cf7ef548aaa6a434597414d72bb9691c, type: 3}
+  pivotTransform: {fileID: 0}
+  PlayerBody: {fileID: 0}
+  playerAttaqueBox: {fileID: 0}
+  playerParedeBox: {fileID: 0}
+  playerCloneBox: {fileID: 0}
